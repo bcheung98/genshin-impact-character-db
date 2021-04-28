@@ -598,5 +598,25 @@
         "birthday": "1/24",
         "gender": "Female",
         "nation": "Mondstadt"
+    },
+    {
+        "id": 30,
+        "name": "Yanfei",
+        "title": "Wise Innocence",
+        "rarity": 4,
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "materials": {
+            "talents": "Gold",
+            "ascensionMat": "Juvenile Jade",
+            "localMat": "Noctilucous Jade",
+            "commonMat": "Treasure Hoarder Insignia",
+            "bossMat": "Bloodjade Branch"
+        },
+        "description": "A well-known legal adviser active in Liyue Harbor. A briliant young lady in whose veins runs the blood of an illuminated beast.",
+        "constellation": "Bestia Iustitia",
+        "birthday": "7/28",
+        "gender": "Female",
+        "nation": "Liyue"
     }
 ]
