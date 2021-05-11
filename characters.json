@@ -618,5 +618,25 @@
         "birthday": "7/28",
         "gender": "Female",
         "nation": "Liyue"
+    },
+    {
+        "id": 31,
+        "name": "Eula",
+        "title": "Dance of the Shimmering Wave",
+        "rarity": 5,
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "materials": {
+            "talents": "Resistance",
+            "ascensionMat": "Crystalline Bloom",
+            "localMat": "Dandelion Seed",
+            "commonMat": "Mask",
+            "bossMat": "Dragon Lord's Crown"
+        },
+        "description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
+        "constellation": "Aphros Delos",
+        "birthday": "10/25",
+        "gender": "Female",
+        "nation": "Mondstadt"
     }
 ]
