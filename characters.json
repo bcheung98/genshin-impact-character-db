@@ -638,5 +638,25 @@
         "birthday": "10/25",
         "gender": "Female",
         "nation": "Mondstadt"
+    },
+    {
+        "id": 32,
+        "name": "Kazuha",
+        "title": "Scarlet Leaves Pursue Wild Waves",
+        "rarity": 5,
+        "element": "Anemo",
+        "weapon": "Sword",
+        "materials": {
+            "talents": "Diligence",
+            "ascensionMat": "Marionette Core",
+            "localMat": "Sea Ganoderma",
+            "commonMat": "Treasure Hoarder Insignia",
+            "bossMat": "Gilded Scale"
+        },
+        "description": "A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.",
+        "constellation": "Acer Palmatum",
+        "birthday": "10/29",
+        "gender": "Male",
+        "nation": "Inazuma"
     }
 ]
